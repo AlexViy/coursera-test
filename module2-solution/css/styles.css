@@ -24,6 +24,7 @@ h1 {
 	background-color: #abb88e;
 	font-weight: bolder;
 
+
 }
 
 .section {
@@ -36,7 +37,7 @@ h1 {
 
 .section:hover {
 	box-shadow: 3px 3px 5px #8e8e91;
-	transition: 0.5s;
+	transition: 0.2s;
 }
 
 #chicken {
